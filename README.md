@@ -8,7 +8,6 @@ The model is trained using a custom dataset exported from Roboflow and detects *
 ## 🚀 Features
 
 - Pretrained SSD300-VGG16 (Transfer Learning)
-- Custom PyTorch Dataset (YOLO → PyTorch conversion)
 - Automatic dataset cleaning
 - Custom classification head (28 classes)
 - GPU training support
